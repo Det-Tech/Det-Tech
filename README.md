@@ -30,9 +30,7 @@
 
 <div>
  
-### I love world and Internet
-### We can create everything with Internet.
-### Please contact with me, dte14176@gmail.com. I will help you so that you can success perfect.
+### I love you
 ### Thanks
 <br />
 
