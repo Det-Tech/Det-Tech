@@ -1,4 +1,3 @@
-### I love this world
 <p align="center"><img align="center" src="https://github.com/bitc0401/bitc0401/blob/main/download.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 <h1 align="center">
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
