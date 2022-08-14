@@ -11,7 +11,7 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 👀 I’m interested in exploring blockchain technologies, and working on anything catches my interest.  
   
@@ -21,12 +21,6 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 
 - 📫 If you would to contact me, my contact info can be found on the left-hand side of my profile.  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -129,6 +123,3 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
