@@ -19,8 +19,7 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 - 💞️ I’m looking to collaborate on any of the open source projects I'm currently active in.  
   
 
-- 📫 If you would to contact me, my contact info can be found on the left-hand side of my profile.
-  dte14176@gmail.com
+- 📫 This is my contact.  dte14176@gmail.com
 
 <br/>  
 
