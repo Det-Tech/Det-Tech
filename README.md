@@ -1,18 +1,18 @@
-# <div align="center">Hey 👋, I'm Fullstack Engineer.</div>  
+# <div align="center">Hey 👋, I'm Fullstack Engineer </div>  
   
 
 
 ### Glad to see you here!  
-Senior engineer with 12+ years of experience building up web & mobile & game & blockchain infrastructure for several organizations with combined expertise in Software Engineering and Blockchain Architecture.  
+Senior engineer with 12+ years of experience building up web & mobile & game & blockchain infrastructure for several organizations with combined expertise in Software Engineering and Blockchain Architecture
   
 
 <br/>  
 
 
-## Rapidfire  
+## Details  
 
 
-- 👀 I’m interested in exploring blockchain technologies, and working on anything catches my interest.
+- 👀 I’m interested in exploring blockchain technologies, and working on anything catches my interest
   
   Bitcoin chain
   
@@ -34,18 +34,18 @@ Senior engineer with 12+ years of experience building up web & mobile & game & b
     
   ~ ~ Rust, Go, Move, Clarity JS ... ~ ~
   
-- 👀 I’m interested in exploring web technologies, and working on anything catches my interest.
+- 👀 I’m interested in exploring web technologies, and working on anything catches my interest
   
   Frontend, Backend
   
-- 👀 I’m interested in exploring game technologies, and working on anything catches my interest.
+- 👀 I’m interested in exploring game technologies, and working on anything catches my interest
 
   Unity, Unreal, Cocos2d
   
-- 💞️ I’m looking to collaborate on any of the open source projects I'm currently active in.  
+- 💞️ I’m looking to collaborate on any of the open source projects I'm currently active in
   
 
-- 📫 This is my contact.  dte14176@gmail.com
+- 📫 This is my contact  dte14176@gmail.com
 
 <br/>  
 
