@@ -3,7 +3,7 @@
 
 
 ### Glad to see you here!  
-Senior engineer with 12+ years of experience building up web & mobile & game & blockchain infrastructure for several organizations with combined expertise in Software Engineering and Blockchain Architecture
+Senior engineer with 12+ years of experience building up web & mobile & game & AI & blockchain infrastructure for several organizations with combined expertise in Software Engineering and Blockchain Architecture
   
 
 <br/>  
