@@ -33,7 +33,7 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
   
   Polkadot chain
     
-  ~ ~ Rust, Go, Move, Clarity JS ...~ ~
+  ~ ~ Rust, Go, Move, Clarity JS ... ~ ~
 
 - 💞️ I’m looking to collaborate on any of the open source projects I'm currently active in.  
   
