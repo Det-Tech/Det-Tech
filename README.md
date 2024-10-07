@@ -20,7 +20,7 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
   
 
 - 📫 If you would to contact me, my contact info can be found on the left-hand side of my profile.
-
+  dte14176@gmail.com
 
 <br/>  
 
