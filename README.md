@@ -15,7 +15,9 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 
 - 👀 I’m interested in exploring blockchain technologies, and working on anything catches my interest.
   Bitcoin chain
+  
   EVM Ecosystem(Ethereum, Binanace Smart Chain, Polygon, Avalanche, etc)
+  
   Solana blockchain
   Cosmos Ecosystem(Sei chain, Cronos chain, etc)
   Stacks blockchain
