@@ -19,13 +19,19 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
   EVM Ecosystem(Ethereum, Binanace Smart Chain, Polygon, Avalanche, etc)
   
   Solana blockchain
-  Cosmos Ecosystem(Sei chain, Cronos chain, etc)
-  Stacks blockchain
-  Aptos blockchain
-  Near blockchain
-  Gnosis chain
-  Polkadot chain
   
+  Cosmos Ecosystem(Sei chain, Cronos chain, etc)
+  
+  Stacks blockchain
+  
+  Aptos blockchain
+  
+  Near blockchain
+  
+  Gnosis chain
+  
+  Polkadot chain
+    
   ~ ~ Rust, Go, Move, Clarity JS ...~ ~
 
 - 💞️ I’m looking to collaborate on any of the open source projects I'm currently active in.  
