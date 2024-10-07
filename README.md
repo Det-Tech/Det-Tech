@@ -2,9 +2,8 @@
   
 
 
-
 ### Glad to see you here!  
-Senior engineer with 8+ years of experience building up web & blockchain infrastructure for several organizations with combined expertise in Software Engineering and Blockchain Architecture.  
+Senior engineer with 12+ years of experience building up web & mobile & game & blockchain infrastructure for several organizations with combined expertise in Software Engineering and Blockchain Architecture.  
   
 
 <br/>  
@@ -34,7 +33,15 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
   Polkadot chain
     
   ~ ~ Rust, Go, Move, Clarity JS ... ~ ~
+  
+- 👀 I’m interested in exploring web technologies, and working on anything catches my interest.
+  
+  Frontend, Backend
+  
+- 👀 I’m interested in exploring game technologies, and working on anything catches my interest.
 
+  Unity, Unreal, Cocos2d
+  
 - 💞️ I’m looking to collaborate on any of the open source projects I'm currently active in.  
   
 
