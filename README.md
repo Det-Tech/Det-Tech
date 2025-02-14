@@ -45,8 +45,8 @@ Senior engineer with 12+ years of experience building up web & mobile & game & A
 - 💞️ I’m looking to collaborate on any of the open source projects I'm currently active in
   
 
-- 📫 This is my contact  dte14176@gmail.com
-
+- 📫 Hi Tyler This is my contact  dte14176@gmail.com
+  
 <br/>  
 
 
@@ -130,6 +130,7 @@ Senior engineer with 12+ years of experience building up web & mobile & game & A
   
 
 <br/>  
+
 
 
 <br />
