@@ -24,7 +24,7 @@ Senior engineer with 12+ years of experience building up web & mobile & game & A
   
   Stacks blockchain
   
-  Aptos blockchain
+  Aptos blockchain(SUI blockchain)
   
   Near blockchain
   
